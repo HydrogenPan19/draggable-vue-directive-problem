@@ -1,5 +1,10 @@
 # draggable-vue-directive-problem
 
+Problems on older versions of Chrome.
+
+- Reproduce on v69 (69.0.3497.42)
+- [gif](./public/draggable-vue-directive-problem.gif)
+
 ## Project setup
 ```
 yarn install
